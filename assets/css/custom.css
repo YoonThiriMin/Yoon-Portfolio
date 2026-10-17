@@ -535,6 +535,11 @@ section,
   color: color-mix(in srgb, #fff, transparent 30%);
 }
 
+.status-roles {
+  flex-basis: 100%;
+  text-align: center;
+}
+
 .status-badge {
   display: inline-flex;
   align-items: center;
