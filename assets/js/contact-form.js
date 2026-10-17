@@ -1,7 +1,3 @@
-/**
- * Contact form submission via Web3Forms (https://web3forms.com)
- * Free static-site email backend — no server code required.
- */
 (function () {
   "use strict";
 
